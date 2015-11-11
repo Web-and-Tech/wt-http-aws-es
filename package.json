@@ -1,6 +1,6 @@
 {
   "name": "wt-http-aws-es",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Use the elasticsearch-js client with Amazon ES",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/Web-and-Tech/wt-http-aws-es#readme",
-  "_id": "wt-http-aws-es@2.1.2",
+  "_id": "wt-http-aws-es@2.1.3",
   "_from": "wt-http-aws-es@*",
   "_npmVersion": "2.12.1",
   "_nodeVersion": "0.12.7",
